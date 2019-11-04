@@ -58,6 +58,7 @@
 				<div class="row">
 					<div class="col-sm-3">
 						<img src="https://www.placecage.com/300/200" class="img-fluid mx-auto" alt="image of nick cage">
+
 					</div>
 					<div class="col-sm-9">
 						<p>Bacon ipsum dolor amet ham pig ball tip, short ribs jowl spare ribs ham hock frankfurter tri-tip. Drumstick porchetta hamburger fatback andouille pastrami jowl bresaola venison pork chop jerky picanha doner filet mignon. Kielbasa prosciutto short ribs pastrami spare ribs. Sausage brisket hamburger tail biltong. Shankle kielbasa filet mignon venison rump frankfurter spare ribs strip steak. Ham hock kevin pork belly salami. Hamburger t-bone swine alcatra pork loin shoulder, tri-tip ham meatball sausage venison. Chicken bacon drumstick tongue strip steak chuck capicola cow shoulder pancetta buffalo doner meatball turducken ribeye. Sirloin shoulder brisket meatloaf chuck ham. Alcatra strip steak jerky cow beef pork.</p>
@@ -67,6 +68,50 @@
 
 			</div>
 		</section>
+		<div>
+			<div class="container pt-4">
+				<div class="row">
+			<div class="col-lg-3 col-sm-6">
+				<img src="https://www.placecage.com/300/200" class="img-fluid rounded-circle mb-4" alt="image of nick cage">
+				<div class="card">
+					<div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<img src="https://www.placecage.com/300/200" class="img-fluid rounded-circle mb-4" alt="image of nick cage">
+				<div class="card">
+					<div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<img src="https://www.placecage.com/300/200" class="img-fluid rounded-circle mb-4" alt="image of nick cage">
+				<div class="card"">
+					<div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<img src="https://www.placecage.com/300/200" class="img-fluid rounded-circle mb-4" alt="image of nick cage">
+				<div class="card">
+					<div class="card-body">
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
+
+		</div>
+		<footer>
+			<div class="container-fluid bg-dark text-light text-center">
+				<small> this bootstrap challenge</small>
+
+			</div>
+		</footer>
 	</body>
 </html>
